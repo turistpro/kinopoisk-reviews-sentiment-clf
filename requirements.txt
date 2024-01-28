@@ -1,0 +1,16 @@
+# common
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+# HuggingFace
+datasets
+transformers
+# pyTorch
+torch
+torchsummary
+# TensorFlow
+# tensorflow-macos
+# tensorflow-metal
+# tensorflow-text
