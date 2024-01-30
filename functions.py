@@ -32,7 +32,7 @@ def train(model, data_loader, optimizer, scheduler, device):
         optimizer.step()
         scheduler.step()
 
-def evaluate(model, data_loader, device = device):
+def evaluate(model, data_loader, device):
     model.eval()
     predictions = []
     actual_labels = []
