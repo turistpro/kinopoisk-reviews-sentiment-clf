@@ -9,7 +9,7 @@ datasets
 transformers
 # pyTorch
 torch
-torchsummary
+torchinfo
 # TensorFlow
 # tensorflow-macos
 # tensorflow-metal
